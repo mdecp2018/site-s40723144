@@ -8,7 +8,7 @@ Title: About
 
 課程網誌: <a href="https://mdecourse.github.io/2018fall/blog">https://mdecourse.github.io/2018fall/blog</a>
 
-<iframe src="https://www.youtube.com/watch?v=PNfuu95a3ns" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://youtu.be/ZHmbx06drtc" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
