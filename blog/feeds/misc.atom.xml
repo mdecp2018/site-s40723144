@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2018fall40723144豪樹的計概部落格 - Misc</title><link href="https://mdecp2018.github.io/site-s40723144/blog/" rel="alternate"></link><link href="https://mdecp2018.github.io/site-s40723144/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecp2018.github.io/site-s40723144/blog/</id><updated>2018-11-08T01:00:00+08:00</updated><entry><title>國立虎尾科技大學機械設計工程系電腦輔助設計實習 - s40723144說明如何利用 p37 中的 git 建立個人的 Github Pages 網站(week1)</title><link href="https://mdecp2018.github.io/site-s40723144/blog/20181108-1.html" rel="alternate"></link><published>2018-11-08T01:00:00+08:00</published><updated>2018-11-08T01:00:00+08:00</updated><author><name>40723144</name></author><id>tag:mdecp2018.github.io,2018-11-08:/site-s40723144/blog/20181108-1.html</id><summary type="html">&lt;h2&gt;國立虎尾科技大學機械設計工程系電腦輔助設計實習 - s40723144說明如何利用 p37 中的 git 建立個人的 Github Pages 網站(week1)&lt;/h2&gt;
-</summary><content type="html">&lt;h2&gt;國立虎尾科技大學機械設計工程系電腦輔助設計實習 - s40723144說明如何利用 p37 中的 git 建立個人的 Github Pages 網站(week1)&lt;/h2&gt;
-
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2018fall40723144豪樹的計概部落格 - Misc</title><link href="https://mdecp2018.github.io/site-s40723144/blog/" rel="alternate"></link><link href="https://mdecp2018.github.io/site-s40723144/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecp2018.github.io/site-s40723144/blog/</id><updated>2018-11-08T01:00:00+08:00</updated><entry><title>國立虎尾科技大學機械設計工程系電腦輔助設計實習 - s40723144說明如何利用 p37 中的 git 建立個人的 Github Pages 網站(week1)</title><link href="https://mdecp2018.github.io/site-s40723144/blog/20181108-1.html" rel="alternate"></link><published>2018-11-08T01:00:00+08:00</published><updated>2018-11-08T01:00:00+08:00</updated><author><name>40723144</name></author><id>tag:mdecp2018.github.io,2018-11-08:/site-s40723144/blog/20181108-1.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;ol&gt;
 &lt;li&gt;
@@ -80,6 +78,48 @@ http-server.py的靜端模擬啟動器&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Orj_L-s4cwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2018Fall"></category></entry><entry><title>國立虎尾科技大學機械設計工程系電腦輔助設計實習 -s40723144 2a-week3 git 基本操作練習</title><link href="https://mdecp2018.github.io/site-s40723144/blog/20181108-3.html" rel="alternate"></link><published>2018-09-10T01:00:00+08:00</published><updated>2018-09-10T01:00:00+08:00</updated><author><name>40723144</name></author><id>tag:mdecp2018.github.io,2018-09-10:/site-s40723144/blog/20181108-3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;國立虎尾科技大學機械設計工程系電腦輔助設計實習 -s40723144 2a-week3 git 基本操作練習&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;首先進到C槽以&lt;code&gt;mkdir&lt;/code&gt;增加一個test的資料夾&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;接著進到test以&lt;code&gt;git init&lt;/code&gt;初始化SciTE編輯器的目錄&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然後從上面的Options打開Open global Options File的程式碼查看第137行是否有改變&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;再test的目錄存檔以myprogram.txt的名子存檔起來接著關掉編輯器&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然後再以Dos的命令中輸入&lt;code&gt;y:\SciTE\bin\Scl.exe&lt;/code&gt;的指令將編輯器開啟&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;接著輸入繼續再存檔在myprogram.txt的txt檔中&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然後再輸入&lt;code&gt;git add myprogram.txt&lt;/code&gt;和&lt;code&gt;git commit -m "intial add"&lt;/code&gt;使倉儲做第一次改版的動作&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;繼續再myprogram空兩格輸入first  function儲存一樣輸入上述兩個指令做第二次的改版&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;接著繼續輸入second function做最後一次改版的動作&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最後輸入&lt;code&gt;git log&lt;/code&gt;的指令找尋前面執行的動作&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;再以&lt;code&gt;git checkout 加前面七碼&lt;/code&gt;的指令回到fitst function狀況做查看&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;然後到test拉選myprogram.txt檔案進編輯器試驗我們真的成功回到fitst function狀況&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;就達成我們今天以checkout查看前面狀態指令的目的了&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;END&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cy-5mRPshVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;課程倉儲&lt;/h2&gt;
