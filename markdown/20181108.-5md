@@ -1,0 +1,36 @@
+---
+Title: 上課筆記重點
+Date: 2018-11-09 01:00
+Category: Misc
+Tags: 2018Fall
+Slug: 20181108-5
+Author: 40723144
+---
+
+<!-- PELICAN_END_SUMMARY -->
+
+1. `global`全域(整個範圍都適用)
+
+1. `git commit`提交改版
+
+1. `c:`切換到c槽
+
+1. `cd`切換到最原始的地方
+
+1. `git clone`複製倉儲
+
+1. inital初始`git init`目錄初始化
+
+1. `git brach`查看分支 (branch後面空格加分支為創造分支)
+
+1. `git add .`改版保存
+
+1.` git push`靜端推遠端
+
+1. `python wsgi.py`開啟動態做修改
+
+1. `git status`查看更改動作
+
+1. `https://localhost:8444`近端靜態`8443`近端動態
+
+1. `git checkout`導回當下狀態
